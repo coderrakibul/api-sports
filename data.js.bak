@@ -1,0 +1,32 @@
+
+"status": true,
+"data": {
+"mainFeatures": {
+"storage": "128GB/256GB storage, microSDXC",
+"displaySize": "12.4 inches, 446.1 cm2 (~84.6% screen-to-body ratio)",
+"chipSet": "Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm)",
+"memory": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",
+"sensors": [
+"Fingerprint (under display",
+"optical)",
+"accelerometer",
+"gyro",
+"proximity",
+"compass"
+]
+},
+"slug": "samsung_galaxy_tab_s8+-11342",
+"name": "Galaxy Tab S8+",
+"releaseDate": "Exp. release 2022, February",
+"brand": "Samsung",
+"image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-s8-plus.jpg",
+"others": {
+"WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct, hotspot",
+"Bluetooth": "5.2, A2DP, LE",
+"GPS": "Yes, with A-GPS, GLONASS, BDS, GALILEO",
+"NFC": "No",
+"Radio": "No",
+"USB": "USB Type-C 3.2, magnetic connector"
+}
+}
+}
